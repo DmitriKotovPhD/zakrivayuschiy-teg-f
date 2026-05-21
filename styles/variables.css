@@ -12,4 +12,6 @@
   --content-bg-color: #fff;
   --main-color: #000;
   --block-border-width: 2px;
+  --scaled-block-inline-size: clamp(375px, 100%, 700px);
+  --picture-label-stroke-color: #fff;
 }
