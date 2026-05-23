@@ -13,7 +13,7 @@
 .page {
   min-inline-size: 320px;
   min-block-size: 100dvb;
-  font-family: var(--font-main), sans-serif;
+  font-family: var(--font-main), Arial, sans-serif;
   font-variation-settings: 'wght' var(--font-weight-main);
   font-size: 18px;
   line-height: 21px;
@@ -85,6 +85,7 @@
   position: relative;
   z-index: 0;
   object-fit: cover;
+  object-position: center;
 }
 
 .card__picture-label {
