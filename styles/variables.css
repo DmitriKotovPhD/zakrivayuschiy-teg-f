@@ -14,4 +14,7 @@
   --block-border-width: 2px;
   --scaled-block-inline-size: clamp(375px, 100%, 700px);
   --picture-label-stroke-color: #fff;
+  --like-icon-contour-color: #000;
+  --like-icon-animation-fill-color: #ff0000;
+  --like-icon-alternate-color: #000;
 }
