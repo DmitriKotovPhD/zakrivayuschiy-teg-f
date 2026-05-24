@@ -268,10 +268,6 @@
   }
 }
 
-
-
-
-
 .button_transitioned:focus {
   outline: none;
 }
@@ -386,7 +382,6 @@
   padding: 9px 17px;
   white-space: normal;
 }
-
 
 @media (width >= 700px) {
   .save-button {
